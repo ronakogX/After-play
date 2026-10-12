@@ -1,0 +1,1 @@
+export const businessConfig = { name: "PLAY//ROOM", tagline: "Your game. Your rules.", phone: "[Add phone number]", address: "[Add gaming lounge address]", mapsUrl: "", currency: "INR", openingHours: "12:00 PM – 11:00 PM", social: { instagram: "", youtube: "" }, booking: { cancellationWindowHours: 2, durations: [30, 60, 120], demoMode: true } };
