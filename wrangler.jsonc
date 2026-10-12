@@ -7,7 +7,6 @@
   },
   "assets": {
     "directory": "dist",
-    "not_equal_handling": "", 
     "not_found_handling": "single-page-application"
   }
 }
